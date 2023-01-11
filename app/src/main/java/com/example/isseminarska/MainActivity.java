@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     private RequestQueue requestQueue;
     private TextView artikli;
-    private String url = "https://starfragments-is-dev.azurewebsites.net/api/ArtikelApi";
+    private String url = "https://starfragments-is-dev.azurewebsites.net/api/v1/ArtikelApi";
 
     public static final String EXTRA_MESSAGE = "com.example.isSeminarska.MESSAGE";
 
